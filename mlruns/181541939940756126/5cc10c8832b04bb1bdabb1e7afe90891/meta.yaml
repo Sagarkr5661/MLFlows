@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/181541939940756126/5cc10c8832b04bb1bdabb1e7afe90891/artifacts
+end_time: 1757162120514
+entry_point_name: ''
+experiment_id: '181541939940756126'
+lifecycle_stage: active
+run_id: 5cc10c8832b04bb1bdabb1e7afe90891
+run_name: honorable-ray-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757162120459
+status: 3
+tags: []
+user_id: sagarkumar

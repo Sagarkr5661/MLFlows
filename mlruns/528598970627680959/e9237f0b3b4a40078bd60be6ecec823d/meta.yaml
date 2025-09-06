@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528598970627680959/e9237f0b3b4a40078bd60be6ecec823d/artifacts
+end_time: 1757165345854
+entry_point_name: ''
+experiment_id: '528598970627680959'
+lifecycle_stage: active
+run_id: e9237f0b3b4a40078bd60be6ecec823d
+run_name: colorful-rook-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757165343397
+status: 3
+tags: []
+user_id: sagarkumar

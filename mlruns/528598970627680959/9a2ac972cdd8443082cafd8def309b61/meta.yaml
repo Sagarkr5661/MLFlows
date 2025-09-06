@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528598970627680959/9a2ac972cdd8443082cafd8def309b61/artifacts
+end_time: 1757165695191
+entry_point_name: ''
+experiment_id: '528598970627680959'
+lifecycle_stage: active
+run_id: 9a2ac972cdd8443082cafd8def309b61
+run_name: charming-smelt-389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757165695161
+status: 3
+tags: []
+user_id: sagarkumar

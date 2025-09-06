@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528598970627680959/97d3a96dbce949d2986d5c99093d6887/artifacts
+end_time: 1757164268301
+entry_point_name: ''
+experiment_id: '528598970627680959'
+lifecycle_stage: active
+run_id: 97d3a96dbce949d2986d5c99093d6887
+run_name: judicious-swan-738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757164268266
+status: 4
+tags: []
+user_id: sagarkumar

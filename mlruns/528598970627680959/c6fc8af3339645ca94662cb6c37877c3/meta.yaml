@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/528598970627680959/c6fc8af3339645ca94662cb6c37877c3/artifacts
+end_time: 1757164398595
+entry_point_name: ''
+experiment_id: '528598970627680959'
+lifecycle_stage: active
+run_id: c6fc8af3339645ca94662cb6c37877c3
+run_name: receptive-hen-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757164395952
+status: 3
+tags: []
+user_id: sagarkumar
